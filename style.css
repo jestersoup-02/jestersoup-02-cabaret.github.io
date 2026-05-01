@@ -1,0 +1,53 @@
+h1{
+    text-align:center;
+    font-size:50px;
+}
+
+h2{
+    text-align:center;
+    font-size:30px;
+}
+
+body {
+    background:#f2e3f8;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #3d3d3d;
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+}
+
+.navbar a {
+  float: left;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {                                                                     
+  background-color: #e30119;
+}
+
+img {
+    float:left;
+    
+}
+
+p {
+    text-align:left;
+    font-family: Georgia, serif;
+    font-size:18px;
+}
+
+.h6r {
+    float:bottom;                                                                                       
+    float:left;
+}
+
+.mid {
+    text-align:center;
+    
+}
